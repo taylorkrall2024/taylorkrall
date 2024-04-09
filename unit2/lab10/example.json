@@ -1,0 +1,36 @@
+[
+  {
+    "prompt": "What color is the grass",
+    "type": "multiple-choice",
+    "choices": [
+      "green",
+      "black",
+      "purple",
+      "pink"
+    ],
+    "correct": 0
+  },
+  {
+    "prompt": "Different colors of sunsets",
+    "type": "multiple-answer",
+    "choices": [
+      "orange",
+      "black",
+      "pink",
+      "black"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "prompt": "The sky isnt blue.",
+    "type": "true-false",
+    "choices": [
+      "true",
+      "false"
+    ],
+    "correct": 1
+  }
+]
